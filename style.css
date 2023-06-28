@@ -13,5 +13,9 @@
   }
 
   h1 {
-    color: Azure
+    color: Azure;
+  }
+
+  body {
+    font-family: Georgia;
   }
